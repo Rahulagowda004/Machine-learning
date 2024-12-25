@@ -37,12 +37,12 @@ Each algorithm has its own Python file, which can be run independently. To use a
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Rahulagowda004/Machine-learning.git
    ```
 
 2. Navigate to the desired algorithm directory and run the Python file:
    ```bash
-   cd <algorithm-directory>
+   cd Rahulagowda004/Machine-learning
    python <algorithm-file>.py
    ```
 
@@ -56,4 +56,4 @@ The following Python libraries are required to run the algorithms:
 
 ---
 
-This README adds a bit of fun with emojis while maintaining the necessary information.
+Feel free to copy this updated README to your repository!
